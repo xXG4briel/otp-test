@@ -1,0 +1,12 @@
+{
+  "name": "sem-lib",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "hi-base32": "0.5.1",
+    "otpauth": "9.2.2",
+    "qrcode": "1.5.3"
+  }
+}
